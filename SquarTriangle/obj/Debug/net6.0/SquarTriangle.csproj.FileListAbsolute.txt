@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\bin\Debug\net6.0\SquarTriangle.exe
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\bin\Debug\net6.0\SquarTriangle.deps.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\bin\Debug\net6.0\SquarTriangle.runtimeconfig.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\bin\Debug\net6.0\SquarTriangle.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\bin\Debug\net6.0\SquarTriangle.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\refint\SquarTriangle.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\SquarTriangle.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_16_12_2022\SquarTriangle\obj\Debug\net6.0\ref\SquarTriangle.dll

@@ -16,10 +16,10 @@ Console.Write("Введите b2: ");
 var b2 = Convert.ToDouble(Console.ReadLine());
  
  
-var x = -(b1 - b2) / (k1 - k2);
+var x = (b2 - b1) / (k1 - k2);
 var y = k1 * x + b1;
  
-x = Math.Round(x, 3);
-y = Math.Round(y, 3);
+x = Math.Round(x, 2);
+y = Math.Round(y, 2);
  
 Console.WriteLine($"Пересечение в точке:  ({x}; {y})");
